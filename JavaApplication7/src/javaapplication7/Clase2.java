@@ -11,5 +11,8 @@ package javaapplication7;
  * @author biblio06
  */
 public class Clase2 {
+    public static void main(String[] arg){
+        System.out.println("hola mundo");
+    }
     
 }
