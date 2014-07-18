@@ -3,9 +3,7 @@
  */
 
 /*
- * NewJFrame.java
- *
- * Created on 18/07/2014, 06:01:34 PM
+ QUE TE PARECIO AMIGO
  */
 package j;
 
