@@ -5,8 +5,7 @@
 package j;
 
 /**
- *
- * @author acer
+ modify by amy
  */
 public class J {
 
