@@ -14,6 +14,6 @@ public class J {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.printl("hola mundo");
+        System.out.println("hola mundo");
     }
 }
