@@ -18,6 +18,7 @@ public class Prueba {
         // TODO code application logic here
          System.out.println("hola MUNDO");
          System.out.println("hola MUNDO**********************");
+           System.out.println("--------------------------");
     }
     
 }
