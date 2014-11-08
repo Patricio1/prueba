@@ -20,6 +20,9 @@ public class Prueba {
          System.out.println("hola MUNDO**********************");
            System.out.println("--------------------------");
            //3333333333333333333333333333333
+		   for(int i=0;i<=5;i++){
+		   System.out.println("FISEI    UTA");
+		   }
     }
     
 }
